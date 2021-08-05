@@ -1,0 +1,24 @@
+{
+  "name": "ghiblimovies",
+  "version": "1.0.0",
+  "description": "Example App to learn 3 types of Asynchronous Programming techniques described by a Digital Ocean tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "asynchronous-programming"
+  },
+  "keywords": [
+    "NodeJS",
+    "event",
+    "loop",
+    "functional",
+    "programming",
+    "react",
+    "components"
+  ],
+  "author": "Shashank Sabniveesu",
+  "license": "GPL-3.0-or-later"
+}
