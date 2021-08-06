@@ -22,6 +22,7 @@
   "author": "Shashank Sabniveesu",
   "license": "GPL-3.0-or-later",
   "dependencies": {
+    "axios": "^0.21.1",
     "request": "^2.88.2"
   }
 }
