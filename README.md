@@ -12,3 +12,6 @@
 3. [package-lock.json lists both *dependencies* and *requires*?](https://stackoverflow.com/questions/52926922/package-lock-json-requires-vs-dependencies)
 4. [Why package-lock.json and how it is different from yarn.lock file](https://blog.npmjs.org/post/621733939456933888/npm-v7-series-why-keep-package-lockjson)
 5. [How can I write my own function that accepts callbacks into it?](https://stackoverflow.com/questions/5594531/how-can-i-write-a-function-accepting-callback-function-and-run-it-in-a-safe-wa)
+6. [How can I have multiple catch blocks with promises?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises#nesting)
+7. [How can I have named exception handling with promises?](https://stackoverflow.com/a/49848609)
+8. [A mixed approach of promises and callbacks to handle multiple exceptions](https://stackoverflow.com/a/26077868)
